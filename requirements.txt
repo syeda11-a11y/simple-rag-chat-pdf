@@ -5,3 +5,5 @@ langchain-openai
 pypdf
 faiss-cpu
 python-dotenv
+tavily-python
+langchain-text-splitters
