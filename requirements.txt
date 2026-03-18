@@ -5,3 +5,5 @@ langchain-openai
 pypdf
 faiss-cpu
 python-dotenv
+google-search-results
+langchain-text-splitters
